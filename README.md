@@ -1,3 +1,13 @@
+Compile Method
+
+Git clone 
+cd .\vscode-smarty\
+npm install -g vsce
+vsce package
+
+git clone https://github.com/sgmckay25/vscode-smarty.git
+
+
 # Smarty syntax highlighting
 
 This extensions adds support for syntax highlighting and snippets for the Smarty 3 templating language.
