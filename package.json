@@ -5,7 +5,7 @@
 	"description": "Syntax highlighting for the Smarty templating language.",
 	"version": "0.4.0",
 	"icon": "images/logo.png",
-	"publisher": "imperez",
+	"publisher": "imperez (Modified by Mckay25)",
 	"engines": {
 		"vscode": "^0.10.x"
 	},
