@@ -159,13 +159,13 @@
 						</dict>
 					</dict>
 					<key>match</key>
-					<string>\b([a-zA-Z]+)=</string>
+					<string>\b([a-zA-Z_]+)=</string>
 					<key>name</key>
 					<string>meta.attribute.smarty</string>
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>\b(capture|config_load|counter|cycle|debug|eval|fetch|include_php|include|insert|math|strip|rdelim|ldelim|assign|constant|block|html_[a-z_]*)\b</string>
+					<string>\b(capture|config_load|counter|cycle|debug|eval|fetch|include_php|include_composant|continue|include|insert|math|strip|rdelim|ldelim|assign|constant|block|html_[a-z_]*)\b</string>
 					<key>name</key>
 					<string>support.function.built-in.smarty</string>
 				</dict>
